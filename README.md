@@ -2,6 +2,12 @@
 
 This project is an AI-powered shopping assistant for the Hepsiburada e-commerce platform. It utilizes OpenAI's GPT-3.5 model to provide personalized product recommendations based on user preferences and requirements.
 
+
+
+https://github.com/Burak35Kaya/Shopping_Assistant/assets/96525125/ff264fc2-21f3-48d3-929c-ebfdc9a368bd
+
+
+
 ## Features
 
 - Curated product lists: The AI assistant generates a curated list of relevant products based on the user's shopping needs, including functions, styles, and budget.
