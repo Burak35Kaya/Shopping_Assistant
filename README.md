@@ -4,7 +4,14 @@ This project is an AI-powered shopping assistant for the Hepsiburada e-commerce 
 
 
 
-https://github.com/Burak35Kaya/Shopping_Assistant/assets/96525125/ff264fc2-21f3-48d3-929c-ebfdc9a368bd
+https://github.com/Burak35Kaya/Shopping_Assistant/assets/96525125/9feae874-d9f8-43ab-8ac0-297a4909f9c3
+
+
+
+
+
+https://github.com/Burak35Kaya/Shopping_Assistant/assets/96525125/7743e73d-88c1-404f-9a23-2d7acd5faa6e
+
 
 
 
